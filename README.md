@@ -1,4 +1,4 @@
-# smart-system-demo
+# Smart System Demo
 
 Install Home Automation Setup on your local development machine using any of the methods given here - https://www.home-assistant.io/installation/. For the scope of this demo, we are using docker based solution to do hands-on session and playaround.
 
